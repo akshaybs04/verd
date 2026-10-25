@@ -1,0 +1,18 @@
+{
+  "station_id": "test_stn_99",
+  "station_name": "Test Workshop",
+  "can_handle_fault": true,
+  "slots": [
+    "10:00 AM"
+  ],
+  "price_range": "\u20b9500 - \u20b91,000",
+  "estimated_wait_time": "15-30 mins",
+  "address": "",
+  "phone": "",
+  "notes": "",
+  "streaming_url": null,
+  "source": "replayed",
+  "call_to_confirm": false,
+  "error": null,
+  "timestamp": 1792951144.7221212
+}

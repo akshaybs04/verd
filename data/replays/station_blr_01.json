@@ -1,0 +1,16 @@
+{
+  "station_id": "station_blr_01",
+  "station_name": "ElectroFix EV Hub - Indiranagar",
+  "can_handle_fault": true,
+  "slots": ["Today 3:30 PM", "Today 4:45 PM", "Tomorrow 10:00 AM"],
+  "price_range": "₹850 - ₹1,400 (Battery thermal diagnostic & coolant check)",
+  "estimated_wait_time": "15-20 mins",
+  "address": "100 Feet Rd, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560038",
+  "phone": "+91 80 4123 4567",
+  "notes": "Specialist EV technician on duty. Coolant circulation loop diagnostic scanner available.",
+  "streaming_url": "https://agent.tinyfish.ai/stream/replay/blr-indiranagar-01",
+  "source": "replayed",
+  "call_to_confirm": false,
+  "error": null,
+  "timestamp": 1729864800.0
+}

@@ -1,0 +1,16 @@
+{
+  "station_id": "station_blr_02",
+  "station_name": "VoltCare Express Workshop - Koramangala",
+  "can_handle_fault": true,
+  "slots": ["Today 3:15 PM (Immediate)", "Today 5:00 PM", "Tomorrow 11:30 AM"],
+  "price_range": "₹900 - ₹1,650 (EV High-Voltage Thermal Scan & Flush)",
+  "estimated_wait_time": "10-15 mins",
+  "address": "80 Feet Rd, 4th Block, Koramangala, Bengaluru, Karnataka 560034",
+  "phone": "+91 80 2552 8899",
+  "notes": "Direct bay open for emergency EV battery cooling inspection.",
+  "streaming_url": "https://agent.tinyfish.ai/stream/replay/blr-koramangala-02",
+  "source": "replayed",
+  "call_to_confirm": false,
+  "error": null,
+  "timestamp": 1729864800.0
+}

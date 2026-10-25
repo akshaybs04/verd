@@ -1,0 +1,16 @@
+{
+  "station_id": "station_blr_03",
+  "station_name": "Apex Green Mobility Service - MG Road",
+  "can_handle_fault": true,
+  "slots": ["Today 4:00 PM", "Tomorrow 10:00 AM", "Tomorrow 02:00 PM"],
+  "price_range": "₹1,200 - ₹2,000 (Full Thermal System Diagnostics)",
+  "estimated_wait_time": "25-30 mins",
+  "address": "Mahatma Gandhi Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+  "phone": "+91 80 4911 2233",
+  "notes": "Authorized OEM battery service point. 2 bays open.",
+  "streaming_url": "https://agent.tinyfish.ai/stream/replay/blr-mgroad-03",
+  "source": "replayed",
+  "call_to_confirm": false,
+  "error": null,
+  "timestamp": 1729864800.0
+}
